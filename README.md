@@ -1,4 +1,4 @@
-#Motion planning - RRT algorithm
+Motion planning - RRT algorithm
 
 Readme
 
